@@ -21,6 +21,7 @@ body{font-family: 'Montserrat', sans-serif;}
     min-width: 130px;
     float: left;
     margin-right: 20px;
+    mix-blend-mode: multiply;
 }
 
 .contact-info-box {
